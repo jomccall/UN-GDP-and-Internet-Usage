@@ -2,9 +2,9 @@
 Utilizing UN data and Python, I've created an analysis of global GDP per capita and internet usage over time.
 
 ## Table of Contents
-* [General Information] (#general-information)
-* [Technologies] (#technologies)
-* [Setup] (#setup)
+* General Information
+* Technologies
+* Setup
 
 
 ## General Information:
@@ -15,4 +15,4 @@ This project's aim is to examine the connection between GDP per capita and the p
 - Python 3.6
 - Packages: pandas, numpy, matplotlib, seaborn
 
-##Setup:
+## Setup:
