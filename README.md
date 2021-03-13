@@ -4,7 +4,6 @@ Utilizing UN data and Python, I've created an analysis of global GDP per capita 
 ## Table of Contents
 * General Information
 * Technologies
-* Setup
 
 
 ## General Information:
@@ -14,5 +13,3 @@ This project's aim is to examine the connection between GDP per capita and the p
 - Jupyter Notebook
 - Python 3.6
 - Packages: pandas, numpy, matplotlib, seaborn
-
-## Setup:
